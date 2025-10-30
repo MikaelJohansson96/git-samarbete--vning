@@ -1,2 +1,0 @@
-Fördelar med att använda 
-Git
