@@ -1,3 +1,4 @@
 Fördelar med att använda 
 Git
 Hej hej!
+Adrian, viktig text och sånt.
