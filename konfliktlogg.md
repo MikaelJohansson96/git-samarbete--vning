@@ -1,0 +1,1 @@
+Vi jämförde våra textfiler, kollade konflikterna och ändrade så att allt såg rätt ut. Efter det mergade vi våra pull requests. Det råkade bli en text som stod två gånger men vi ändrade den igen.
