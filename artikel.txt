@@ -3,6 +3,5 @@ Git
 Hej hej!
 Adrian, viktig text och sånt.
 mer text .. . .
-Adrian, viktig text och sånt.
 Git
 Mikael skriver mer text
